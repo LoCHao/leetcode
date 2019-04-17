@@ -29,7 +29,7 @@ public:
     }
   
     //參考解答
-    int referenceSolution(TreeNode* root){
+    int maxDepth(TreeNode* root){
       
       if(root==NULL)return 0;
       
